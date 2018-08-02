@@ -1408,11 +1408,117 @@ body {
   font-style: italic;
 }
 .cid-qTK6ZBdSET H1 {
-  color: #e4d295;
+  color: #f9f295;
 }
 .cid-qTK6ZBdSET P {
-  color: #e4d295;
+  color: #f9f295;
   text-align: left;
+}
+.cid-qZytNwPo5h {
+  background-image: url("../../../assets/images/img-9970-2000x1333.jpg");
+}
+.cid-qZytNwPo5h .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-qZytNwPo5h .mbr-text,
+.cid-qZytNwPo5h .mbr-section-btn {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-qZytNwPo5h H3 {
+  text-align: left;
+}
+.cid-qZytxo6ZiA {
+  padding-top: 15px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/img-9970-2000x1333.jpg");
+}
+.cid-qZytxo6ZiA h4 {
+  font-weight: 500;
+  color: #ffffff;
+}
+.cid-qZytxo6ZiA p {
+  color: #ffffff;
+}
+.cid-qZytxo6ZiA .card {
+  margin-bottom: 2rem;
+}
+.cid-qZytxo6ZiA .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  background-color: #232323;
+}
+.cid-qZytxo6ZiA .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-qZytxo6ZiA .card-box {
+  padding-bottom: 2rem;
+  background-color: #232323;
+  background: linear-gradient(#232323, transparent);
+}
+.cid-qZytxo6ZiA .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qZytxo6ZiA .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qZytxo6ZiA .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qZytxo6ZiA .card-box .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-qZytxo6ZiA P {
+  text-align: center;
+  color: #e4d295;
+}
+.cid-qZytxo6ZiA .card-title,
+.cid-qZytxo6ZiA .card-img {
+  color: #b1a374;
+}
+.cid-qZyA8747Gu {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/img-9970-2000x1333.jpg");
+}
+.cid-qZyA8747Gu .card-box {
+  background-color: #232323;
+  padding: 2rem;
+}
+.cid-qZyA8747Gu h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qZyA8747Gu p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qZyA8747Gu .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qZyA8747Gu .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qZyA8747Gu .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-qZyA8747Gu .card-title {
+  color: #b1a374;
+}
+.cid-qZyA8747Gu P {
+  color: #b1a374;
 }
 .cid-qYQYZZbxuh {
   padding-top: 15px;
@@ -1943,7 +2049,7 @@ body {
   display: none;
 }
 .cid-qYTyArNYDP {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #232323;
 }
@@ -1989,10 +2095,10 @@ body {
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
 }
-@media (max-width: 900px) {
+@media (max-width: 991px) {
   .cid-qYTyArNYDP .media-block {
     flex-basis: 100%;
-    -webkit-flex-basis: 75%;
+    -webkit-flex-basis: 100%;
     padding-left: 0;
     padding-bottom: 2rem;
   }
@@ -2005,17 +2111,48 @@ body {
   color: #b1a374;
   text-align: left;
 }
-.cid-qZe4LtmvN5 {
+.cid-qZtUy6lGT4 {
   padding-top: 0px;
-  /*padding-bottom: 60px;*/
+  padding-bottom: 45px;
   background-color: #232323;
+  position: relative;
 }
-.cid-qZe4LtmvN5 .mbr-section-subtitle {
+.cid-qZtUy6lGT4 .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-qZtUy6lGT4 .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-qZtUy6lGT4 .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-qZtUy6lGT4 .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-qZtUy6lGT4 .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-qZtUy6lGT4 .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-qZtUy6lGT4 .card .panel-body {
+  color: #767676;
+}
+.cid-qZtUy6lGT4 H4 {
+  text-align: center;
   color: #b1a374;
 }
-.cid-qZe4LtmvN5 .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-qZe4LtmvN5 H2 {
+.cid-qZtUy6lGT4 .panel-text {
   color: #b1a374;
 }

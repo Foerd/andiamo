@@ -1398,7 +1398,6 @@ body {
     padding-right: 0rem !important;
   }
 }
-
 .cid-qZyA8747Gu {
   padding-top: 135px;
   padding-bottom: 135px;
@@ -2017,7 +2016,7 @@ body {
 @media (max-width: 991px) {
   .cid-qYTyArNYDP .media-block {
     flex-basis: 100%;
-    -webkit-flex-basis: 75%;
+    -webkit-flex-basis: 50%;
     padding-left: 0;
     padding-bottom: 2rem;
   }
@@ -2118,7 +2117,7 @@ body {
 @media (max-width: 991px) {
   .cid-qZEw3iVdj6 .media-block {
     flex-basis: 100%;
-    -webkit-flex-basis: 75%;
+    -webkit-flex-basis: 50%;
     padding-left: 0;
     padding-bottom: 2rem;
   }
@@ -2519,4 +2518,28 @@ body {
 .cid-qTJXh4DGeG .nav-link:hover,
 .cid-qTJXh4DGeG .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.link {
+  text-align: center;
+  background: #232323;
+  color: gold;
+  padding-bottom: 1.5rem;
+}
+a{
+  color: #b1a374;
+  font-weight: bold;
+}
+/* visited link */
+a:visited {
+    color: #b1a374;
+}
+
+/* mouse over link */
+a:hover {
+    color: #b1a374;
+}
+
+/* selected link */
+a:active {
+    color: #b1a374;
 }
